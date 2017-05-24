@@ -1,7 +1,7 @@
 body{
     background-color: #232323;
     margin: 0;
-    font-family: "Montserrat","Avenir";
+    font-family: Roboto;
 }
 
 .square{
@@ -63,7 +63,7 @@ button{
     background: none;
     text-transform: uppercase;
     height: 100%;
-    font-weight: 700;
+    font-weight: 550;
     color: steelblue;
     letter-spacing: 1px;
     font-size: inherit;
